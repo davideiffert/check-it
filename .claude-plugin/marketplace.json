@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "check-it",
+  "description": "Check it: Claude Code tells you what it changed. Check it tells you where to look.",
+  "owner": {
+    "name": "David Eiffert",
+    "url": "https://github.com/davideiffert"
+  },
+  "plugins": [
+    {
+      "name": "check-it",
+      "source": "./",
+      "description": "A list of what to look at in your browser after Claude changes something you can see, each with a link, a tick and a way to say it is not right.",
+      "homepage": "https://github.com/davideiffert/check-it",
+      "repository": "https://github.com/davideiffert/check-it",
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}

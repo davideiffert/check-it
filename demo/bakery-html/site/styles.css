@@ -1,0 +1,8 @@
+body { font-family: Georgia, serif; margin: 0; background: #fffaf3; color: #3b2a1a; }
+header { background: #c9732b; color: white; padding: 1rem 2rem; }
+header a { color: white; margin-right: 1rem; text-decoration: none; }
+main { padding: 2rem; max-width: 48rem; }
+footer { padding: 1rem 2rem; font-size: 0.9rem; color: #7a6450; border-top: 1px solid #e6d5c0; }
+.button { background: #c9732b; color: white; padding: 0.6rem 1.2rem; border-radius: 4px; text-decoration: none; }
+table { border-collapse: collapse; }
+td { padding: 0.3rem 1rem 0.3rem 0; }

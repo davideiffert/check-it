@@ -1,0 +1,15 @@
+1	local	shared	Add a link to our Instagram (instagram.com/sunrisebakery) at the bottom of every page.
+2	local	shared-style	In the menu across the top, change "Order" to "Order ahead" and make it stand out more than the other links.
+3	local	behavior	People keep sending orders without a phone number. Make the order form require one and tell them if they leave it out.
+4	local	behavior-link	The "Order for pickup" button on the home page takes people to the wrong page. Please fix it.
+5	local	mixed	Mark the gluten-free things on the menu so people can spot them. Also sort out how the menu list is stored in the code, it is a mess.
+6	local	internal	Add notes in the code explaining what each page file is for, for whoever works on the site after me.
+7	live	live	Change the Sunday hours to 9 to 1.
+8	live	live	Put the cinnamon roll price up to $6.
+9	live	live-newpage	Add a page about wholesale orders for cafes and link it from the top menu.
+10	local	shared-data	We are open on Mondays now, 7 to 3. Update the site everywhere it shows when we are open.
+11	noaddr	noaddr	Add a link to our Instagram (instagram.com/sunrisebakery) at the bottom of every page.
+12	noaddr	noaddr	The "Order for pickup" button on the home page takes people to the wrong page. Please fix it.
+13	liveonly	liveonly	Change the Sunday hours to 9 to 1.
+14	liveonly	liveonly	Put the cinnamon roll price up to $6.
+15	liveonly	liveonly	Add a link to our Instagram (instagram.com/sunrisebakery) at the bottom of every page.

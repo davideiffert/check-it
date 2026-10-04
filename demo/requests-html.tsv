@@ -1,0 +1,10 @@
+1	visible	Change our Saturday hours to 8 to 3, we're staying open later now.
+2	visible	Put the cinnamon roll price up to $6.
+3	multi	A few things: make the top bar a darker brown, add "Gluten-free loaf, $11" to the menu, and change the home page headline to "Baked by hand since 2019".
+4	internal	The page view counter should also remember the date of someone's last visit. Nobody needs to see it, it's just for us.
+5	internal	Can you tidy up the order form code? It's messy. Don't change how it works.
+6	notyet	Write a draft page about our December holiday hours (closed the 25th and 26th, short days 8 to 12 on the 24th and 31st), but don't put it on the site yet.
+7	visible-local	Our phone number changed to 555-0199. Please update the website.
+8	multi	We're opening on Mondays now, 7 to 3. Update everywhere on the site that says when we're open.
+9	visible	When someone sends an order, the thank you message should say we'll call within the hour.
+10	mixed	Add a "Find us" link on the contact page that opens Google Maps for 14 Mill Street, and stop the visit counter from running on the order page.

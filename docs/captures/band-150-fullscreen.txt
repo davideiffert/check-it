@@ -1,0 +1,40 @@
+
+ ▐▛███▛█   Claude Code v2.1.288
+▝▜██████▀  Opus 5.5 (1M context) · Claude Max
+ ▝▝   ▝▝   ~/sunrise-bakery · /rc
+
+  Get to finished work sooner with Opus 5.5. Switch anytime with /model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Check it: 2 left to look at [ open list ] [ ask what to check ]                                                                                    [-]
+                                                                                                                                  ◐ medium · /effort
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ Try "edit <filepath> to..."
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  ⏵⏵ auto mode on (shift+tab to cycle) · ← for agents

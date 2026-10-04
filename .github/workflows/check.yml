@@ -1,0 +1,36 @@
+name: Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Claude Code
+        run: npm install --global @anthropic-ai/claude-code@2.1.288
+
+      - name: Validate the plugin and the marketplace
+        run: |
+          claude plugin validate .claude-plugin/plugin.json
+          claude plugin validate .
+
+      - name: Run the tests
+        run: claude plugin test .
+
+      # Loading the plugin writes its type declarations into
+      # .claude-plugin/types before the run stops at the login check,
+      # so no account is needed here.
+      - name: Write the type declarations
+        run: claude -p --plugin-dir . "load" < /dev/null || true
+
+      - name: Type-check
+        run: npx --yes --package typescript@5 tsc -p .

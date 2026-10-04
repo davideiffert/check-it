@@ -1,0 +1,22 @@
+---
+import Base from '../layouts/Base.astro'
+---
+<Base title="Order">
+  <h1>Order for pickup</h1>
+  <form id="order">
+    <p><label>Name <input name="name" required /></label></p>
+    <p><label>Phone <input name="phone" type="tel" /></label></p>
+    <p><label>Pickup day <input name="day" type="date" required /></label></p>
+    <p><label>What would you like? <textarea name="items" required></textarea></label></p>
+    <p><button type="submit" class="button">Send order</button></p>
+  </form>
+  <p id="thanks" hidden>Thanks! We will call you to confirm.</p>
+  <script>
+    const form = document.getElementById('order') as HTMLFormElement
+    form.addEventListener('submit', event => {
+      event.preventDefault()
+      form.hidden = true
+      document.getElementById('thanks')!.hidden = false
+    })
+  </script>
+</Base>

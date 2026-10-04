@@ -1,0 +1,40 @@
+ ▐▛███▛█   Claude Code v2.1.288
+▝▜██████▀  Opus 5.5 (1M context) · Claude Max
+ ▝▝   ▝▝   ~/sunrise-bakery
+
+▎ Your voice can help guide AI
+▎ Take 15 min to share your experiences with Anthropic Interviewer. Start now
+Check it: 5 left to look at [ open list ] [ ask what to check ]                                  [-]
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ Try "write a test for <filepath>"
+────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ auto mode on (shift+tab to cycle) · ← for agents
+  tmux focus-events off · add 'set -g focus-events on' to ~/.tmux.conf and reattach for focus tra…
+                                                                                               /rc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

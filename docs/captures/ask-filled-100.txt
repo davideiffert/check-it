@@ -1,0 +1,40 @@
+ ▐▛███▛█   Claude Code v2.1.288
+▝▜██████▀  Opus 5.5 (1M context) · Claude Max
+ ▝▝   ▝▝   ~/sunrise-bakery
+
+▎ Your voice can help guide AI
+▎ Take 15 min to share your experiences with Anthropic Interviewer. Start now
+
+❯ /check-it
+  ⎿  check-it: Check it list opened.
+Check it: 5 left to look at [ open list ] [ ask what to check ]                                  [-]
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ What should I look at to check the changes you made? Add each one to my Check it list.
+────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ auto mode on (shift+tab to cycle)                                                         /rc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

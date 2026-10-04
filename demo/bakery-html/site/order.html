@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Order | Sunrise Bakery</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><strong>Sunrise Bakery</strong><nav><a href="index.html">Home</a><a href="menu.html">Menu</a><a href="about.html">About</a><a href="contact.html">Contact</a><a href="order.html">Order</a></nav></header>
+<main>
+<h1>Order for pickup</h1>
+<form id="order" onsubmit="return sendOrder(event)">
+<p><label>Name <input name="name" required></label></p>
+<p><label>Pickup day <input name="day" type="date" required></label></p>
+<p><label>What would you like? <textarea name="items" required></textarea></label></p>
+<p><button type="submit" class="button">Send order</button></p>
+</form>
+<p id="thanks" hidden>Thanks! We will call you to confirm.</p>
+<script src="order.js"></script>
+</main>
+<footer>Sunrise Bakery, 14 Mill Street. Open Tuesday to Sunday. &copy; 2026</footer>
+<script src="analytics.js"></script>
+</body>
+</html>

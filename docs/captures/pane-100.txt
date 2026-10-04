@@ -1,0 +1,40 @@
+ ▐▛███▛█   Claude Code v2.1.288
+▝▜██████▀  Opus 5.5 (1M context) · Claude Max
+ ▝▝   ▝▝   ~/sunrise-bakery
+
+▎ Your voice can help guide AI
+▎ Take 15 min to share your experiences with Anthropic Interviewer. Start now
+
+❯ /check-it
+  ⎿  check-it: Check it list opened.
+╭──────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ 5 to look at. Claude says:                                                                     ✕ │
+│                                                                                                  │
+│ Bottom line of the order page                                                                    │
+│ Says Open every day instead of Tuesday to Sunday                                                 │
+│ on this computer open link                                                                       │
+│ [ checked ] [ not right ] [ dismiss ]                                                            │
+│                                                                                                  │
+│ Bottom line of the about page                                                                    │
+│ Says Open every day instead of Tuesday to Sunday                                                 │
+│ on this computer open link                                                                       │
+│ [ checked ] [ not right ] [ dismiss ]                                                            │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────╯
+Check it: 5 left to look at [ open list ] [ ask what to check ]                                  [-]
+
+────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ 
+────────────────────────────────────────────────────────────────────────────────────────────────────
+  ⏵⏵ auto mode on (shift+tab to cycle) · ← for agents
+  tmux focus-events off · add 'set -g focus-events on' to ~/.tmux.conf and reattach for focus tra…
+                                                                                               /rc
+
+
+
+
+
+
+
+
+
+

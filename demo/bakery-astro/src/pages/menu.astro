@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro'
+import { menu } from '../data/menu'
+---
+<Base title="Menu">
+  <h1>Menu</h1>
+  <table>
+    {menu.map(item => <tr><td>{item.name || item.n}</td><td>${item.price || item.cost}</td></tr>)}
+  </table>
+</Base>

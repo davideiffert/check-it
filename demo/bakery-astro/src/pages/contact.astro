@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro'
+import { hours } from '../data/hours'
+---
+<Base title="Contact">
+  <h1>Contact</h1>
+  <p>Phone: 555-0142</p>
+  <p>Email: hello@sunrisebakery.example</p>
+  <h2>Opening hours</h2>
+  <table>
+    {hours.map(row => <tr><td>{row.days}</td><td>{row.time}</td></tr>)}
+  </table>
+</Base>

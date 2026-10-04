@@ -1,0 +1,40 @@
+                                                                                                                   │2 to look at. Claude says:       ✕
+ ▐▛███▛█   Claude Code v2.1.288                                                                                    │
+▝▜██████▀  Opus 5.5 (1M context) · Claude Max                                                                      │Gluten-free loaf on the menu
+ ▝▝   ▝▝   ~/sunrise-bakery · /rc                                                          │Last row of the menu says
+                                                                                                                   │"Gluten-free loaf" for $11
+  Get to finished work sooner with Opus 5.5. Switch anytime with /model.                                           │on this computer open link
+                                                                                                                   │[ checked ] [ not right ]
+❯ /check-it                                                                                                        │[ dismiss ]
+  ⎿  check-it: Check it list opened.                                                                               │
+                                                                                                                   │Home page headline and top bar
+                                                                                                                   │color
+                                                                                                                   │Headline reads "Baked by hand
+                                                                                                                   │since 2019" and the top bar is a
+                                                                                                                   │dark brown (same on every page)
+                                                                                                                   │on this computer open link
+                                                                                                                   │[ checked ] [ not right ]
+                                                                                                                   │[ dismiss ]
+                                                                                                                   │
+                                                                                                                   │[ ask what to check ]
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+                                                                                                                   │
+Check it: 2 left to look at [ open list ] [ ask what to check ]                                                 [-]│
+                tmux detected · scroll with PgUp/PgDn · or add 'set -g mouse on' to ~/.tmux.conf for wheel scroll  │
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+❯ 
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  ⏵⏵ auto mode on (shift+tab to cycle) · ← for agents

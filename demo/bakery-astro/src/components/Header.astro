@@ -1,0 +1,13 @@
+---
+const links = [
+  { href: '/', label: 'Home' },
+  { href: '/menu/', label: 'Menu' },
+  { href: '/about/', label: 'About' },
+  { href: '/contact/', label: 'Contact' },
+  { href: '/order/', label: 'Order' },
+]
+---
+<header>
+  <strong>Sunrise Bakery</strong>
+  <nav>{links.map(link => <a href={link.href}>{link.label}</a>)}</nav>
+</header>
